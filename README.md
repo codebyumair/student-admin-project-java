@@ -1,1 +1,0 @@
-# student-admin-project-java
